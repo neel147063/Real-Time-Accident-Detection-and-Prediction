@@ -139,21 +139,6 @@ The primary goal of this project is to:
 
 ---
 
-## 🚀 How to Run  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/Real-Time-Accident-Detection-and-Prediction.git
-   ```  
-2. Install the required dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-3. Run the model:  
-   ```bash
-   python detect.py --source <input_source>
-   ```  
----
-
 ## 💡 Future Scope  
 - Extend the model to detect other traffic violations.  
 - Enhance the dataset for better performance.  
