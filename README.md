@@ -90,7 +90,7 @@ The primary goal of this project is to:
   <br>
 
 - **Batch 2**  
-  ![val_batch2_pred](https://github.com/user-attachments/assets/ff76ce82-4aff-4379-bca9-931d4260b2a7))  
+  ![val_batch2_pred](https://github.com/user-attachments/assets/ff76ce82-4aff-4379-bca9-931d4260b2a7)
 
   <br><br>
 ---
