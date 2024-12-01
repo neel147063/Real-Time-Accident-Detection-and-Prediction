@@ -4,6 +4,12 @@ This repository contains the implementation of **Real-Time Accident Detection an
 
 ---
 
+### 🚨 Notice to Viewer  
+
+Please carefully review all outputs and ensure to watch the **entire output video** for a comprehensive understanding of the project's results.  
+
+---
+
 ## 📌 Features  
 - **YOLOv10 Transfer Learning:** Trained on a custom dataset for accurate predictions.  
 - **Visualization Tools:** Includes confusion matrices, performance curves, and more for detailed analysis.  
